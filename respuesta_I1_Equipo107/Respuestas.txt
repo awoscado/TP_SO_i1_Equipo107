@@ -6,4 +6,6 @@
 
 a- Sí, ALFA puede ver los datos que carga el resto, ya que BETA y GAMMA son colaboradores, realizan las modificaciones y hacen un push de los cambios al repositorio remoto. Dichos cambios quedan disponibles en el repositorio. ALFA puede actualizar su repositorio local usando el comando "git pull" para sincronizar los cambios y ver lo que los otros agregaron.
 b- Sí, si ALFA agrega un archivo y hace un push al repositorio remoto, tanto BETA como GAMMA pueden ver ese archivo. Para verlo, se ejecuta el comando "git pull" en sus repositorios locales para finalmente poder ver los cambios que ALFA subió al repositorio en GitHub.
+c- Sí, al igual que en el caso de ALFA, si BETA agrega un archivo al repositorio, tanto ALFA como GAMMA podrán ver ese archivo.
+d- Nuestro equipo coordinaba las tareas a traves de un grupo de Whatsapp. cuando algun integrante del equipo terminaba su parte avisaba por el grupo y continuaba con el trabajo el siguiente integrante.
 e- La mejor forma de comunicarse dentro de github es mantener una linea con los nombres de los commits, documentación y el orden de las carpetas de dicho repositorio.
